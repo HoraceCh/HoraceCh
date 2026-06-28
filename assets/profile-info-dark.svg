@@ -1,6 +1,6 @@
 <svg width="680" height="220" viewBox="0 0 680 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Horace Chan profile intro</title>
-  <desc id="desc">Hello, I'm HoraceCh. Mechanical Engineering, Embodied AI, Robotics.</desc>
+  <title id="title">Horace Chen profile intro</title>
+  <desc id="desc">Hello, I'm Horace Chen. Mechanical Engineering, Embodied AI, Robotics.</desc>
   <style>
     .hello {
       font: 800 44px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;
@@ -28,7 +28,7 @@
       animation: fadeIn 1.1s ease-in-out forwards;
     }
     .meta {
-      font: 600 20px 'Cascadia Mono', 'SFMono-Regular', Consolas, monospace;
+      font: 600 18px 'Cascadia Mono', 'SFMono-Regular', Consolas, monospace;
       fill: #8b949e;
       animation: fadeIn 1.2s ease-in-out forwards;
     }
@@ -43,8 +43,8 @@
   </style>
   <text class="hello" x="0" y="51">Hello</text>
   <text class="lead" x="0" y="125">I'm</text>
-  <text class="name" x="88" y="125">HoraceCh</text>
-  <text class="pronunciation" x="405" y="121">/ˈhɔːrəs/</text>
+  <text class="name" x="88" y="125">Horace Chen</text>
+  <text class="pronunciation" x="500" y="121">/ˈhɔːrəs/</text>
   <text class="subtitle" x="0" y="169">Mechanical Engineering / Embodied AI / Robotics</text>
-  <text class="meta" x="0" y="210">https://HoraceCh.github.io   @HoraceCh   horacebuddle@gmail.com</text>
+  <text class="meta" x="0" y="210">HoraceCh.github.io   @HoraceCh   horacebuddle@gmail.com</text>
 </svg>

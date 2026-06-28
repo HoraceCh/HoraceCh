@@ -1,17 +1,19 @@
 <!-- GitHub Profile README for HoraceCh -->
 
-<a href="https://HoraceCh.github.io#gh-light-mode-only">
-  <img src="./assets/header-light-rm.png#gh-light-mode-only" align="left" width="220" height="220" alt="Horace Chan profile avatar" />
-</a>
-<a href="https://HoraceCh.github.io#gh-dark-mode-only">
-  <img src="./assets/header-dark-rm.png#gh-dark-mode-only" align="left" width="220" height="220" alt="Horace Chan profile avatar" />
+<a href="https://HoraceCh.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark_removed_transparent.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-white_removed_transparent.png">
+    <img src="./assets/header-white_removed_transparent.png" align="left" width="220" height="220" alt="Horace Chen profile avatar" />
+  </picture>
 </a>
 
-<a href="https://HoraceCh.github.io#gh-light-mode-only">
-  <img src="./assets/profile-info-light.svg#gh-light-mode-only" width="620" alt="Hello, I'm HoraceCh" />
-</a>
-<a href="https://HoraceCh.github.io#gh-dark-mode-only">
-  <img src="./assets/profile-info-dark.svg#gh-dark-mode-only" width="620" alt="Hello, I'm HoraceCh" />
+<a href="https://HoraceCh.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-info-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-info-light.svg">
+    <img src="./assets/profile-info-light.svg" width="620" alt="Hello, I'm Horace Chen" />
+  </picture>
 </a>
 
 <br clear="left">
@@ -25,10 +27,10 @@
 
 <!-- Optional GitHub stats card. Replace the URLs before enabling.
 <a href="https://github.com/HoraceCh#gh-light-mode-only">
-  <img src="YOUR_LIGHT_GITHUB_STATS_CARD_URL#gh-light-mode-only" align="right" alt="Horace Chan GitHub Stats" />
+  <img src="YOUR_LIGHT_GITHUB_STATS_CARD_URL#gh-light-mode-only" align="right" alt="Horace Chen GitHub Stats" />
 </a>
 <a href="https://github.com/HoraceCh#gh-dark-mode-only">
-  <img src="YOUR_DARK_GITHUB_STATS_CARD_URL#gh-dark-mode-only" align="right" alt="Horace Chan GitHub Stats" />
+  <img src="YOUR_DARK_GITHUB_STATS_CARD_URL#gh-dark-mode-only" align="right" alt="Horace Chen GitHub Stats" />
 </a>
 -->
 
