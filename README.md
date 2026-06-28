@@ -2,21 +2,12 @@
 
 <a href="https://HoraceCh.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark_removed_transparent.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-white_removed_transparent.png">
-    <img src="./assets/header-white_removed_transparent.png" align="left" width="220" height="220" alt="Horace Chen profile avatar" />
-  </picture>
-</a>
-
-<a href="https://HoraceCh.github.io">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-info-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile-info-light.svg">
-    <img src="./assets/profile-info-light.svg" width="620" alt="Hello, I'm Horace Chen" />
+    <img src="./assets/profile-info-light.svg" width="100%" alt="Hello, I'm Horace Chen" />
   </picture>
 </a>
 
-<br clear="left">
 <br>
 
 <!-- Optional WakaTime badge.
